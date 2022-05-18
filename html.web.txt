@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>first page</title>
+</head>
+<bodybgcolor=BLUE>
+
+fundamental of web development
+
+</body>
+</html>
